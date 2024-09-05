@@ -11,19 +11,6 @@
       "Worked with the IT Team"
     ],
     "imageSrc": "company/adityabirla.png"
-  },
-  {
-    "id": 2,
-    "role": "IT Network Engineer Intern",
-    "organisation": "B2R Technologies Pvt. Ltd.",
-    "startDate": "Sep, 2024",
-    "endDate": "oct, 2024",
-    "location": "Haldwani UK",
-    "experiences": [
-      "Worked on Server administration,",
-      "Worked in Hardware and networking"
-    ],
-    "imageSrc": "company/B2R.png"
   }
   
 ]
