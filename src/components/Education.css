@@ -1,0 +1,23 @@
+.edu{
+ 
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(41, 48, 102);
+  margin: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  padding: 30px;
+  width: 800px;
+  border-radius: 10px;
+  border: 1px solid yellow;
+  box-shadow: var(--box-shadow);
+}
+.eduDate{
+    display:inline;
+    justify-content: space-between;
+}
+.eng-data{
+    align-items:flex-end ;
+    color: yellowgreen;
+}
