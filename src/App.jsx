@@ -2,13 +2,14 @@ import React, { useEffect } from "react";
 import Navbar from "./components/Navbar";
 import Home from "./components/Home";
 import Experience from "./components/Experience";
-import Certificate from "./components/Certification";
+import Certification from "./components/Certification";
 import Education from "./components/Education";
 import Skills from "./components/Skills";
 import Projects from "./components/Projects";
 import Contact from './components/Contact'
 import Aos from "aos";
 import "aos/dist/aos.css"
+
 
 
 
@@ -25,7 +26,7 @@ const App = () => {
       <div className="container">
         <Home />
         <Experience />
-        <Certificate/>
+        <Certification/>
         <Education/>
         <Skills />
         <Projects />
